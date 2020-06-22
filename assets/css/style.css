@@ -58,3 +58,27 @@ body {
     text-align: center;
     font-size: 280%
 }
+
+/*Social networks*/
+
+.socmedia-heading {
+    margin: 10px;
+    text-align: center;
+    font-size: 140%;
+}
+
+.social-networks{
+    text-align: center;
+}
+
+.social-networks li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #777777;
+}
+
