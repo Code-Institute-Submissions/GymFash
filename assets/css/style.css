@@ -43,3 +43,15 @@ body {
     margin: 25px 0;
     color: #a7a7a7;
 }
+
+/*card group*/
+
+.card-group {
+    display: flex;
+}
+
+.services-heading{
+    margin: 20px;
+    text-align: center;
+    font-size: 280%
+}
