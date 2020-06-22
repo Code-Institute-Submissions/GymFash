@@ -16,3 +16,30 @@ body {
     justify-content: center;
 }
 
+/*Block divider*/
+
+.block-divider {
+    width: 75px;
+    height: 5px;
+    border: 0;
+    background-color: #f04f40;
+}
+
+
+
+/*jumbotron*/
+
+.jumbotron {
+    background-color: transparent;
+}
+
+.jumbotron-header {
+    color: white;
+    font-weight: bold;
+    margin-bottom: 30px;
+}
+
+.jumbotron .lead {
+    margin: 25px 0;
+    color: #a7a7a7;
+}
