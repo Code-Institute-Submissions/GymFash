@@ -12,7 +12,16 @@ projects that are intended to showcase my skills and credentials for potential e
 GymFash, an acronym for Gynasium and Fashion, is a website for those who want to build their bodies to fit nicely in their clothes. It is based 
 on the premise that the foundation of fashion is the physique.
 
-<h2>Features</h2>
+## Features
+
+Pages: Home, About Us, Gallery, Contact Us.
+ 
+### Existing Features
+- Home - Introduces users to the various ways GymFash will help them get in shape.
+- About Us - Informs users of the benefits of keeping in shape.
+- Gallery - Displays photos of GymFash equipments and facility.
+- Contact Us - Provides a platform (contact form) for users to reach out to GymFash, including a Google Map.
+
 
 
 <h3>Existing Features</h3>
