@@ -1,18 +1,31 @@
-<img src="https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png" style="margin: 0;">
 
-Welcome Denaman,
+<h1>GymFash</h1>
 
-This is the Code Institute student template for Gitpod. We have preinstalled all of the tools you need to get started. You can safely delete this README.md file, or change it for your own project.
+<img src="assets/images/Capture.PNG" style="margin: 0;">
 
-## Gitpod Reminders
 
-To run a frontend (HTML, CSS, Javascript only) application in Gitpod, in the terminal, type:
+This is my first milestone project as a "Full Stack" Software Development student of the <a href="https://codeinstitute.net/">Code Institute</a>. It is the launch of series of 
+projects that are intended to showcase my skills and credentials for potential employers or collaborators to access.
 
-`python3 -m http.server`
+<h2>UX</h2>
 
-A blue button should appear to click: *Make Public*,
+GymFash, an acronym for Gynasium and Fashion, is a website for those who want to build their bodies to fit nicely in their clothes. It is based 
+on the premise that the foundation of fashion is the physique.
 
-Another blue button should appear to click: *Open Browser*.
+<h2>Features</h2>
+
+
+<h3>Existing Features</h3>
+
+<h4>Home Page -</h4>
+
+<ul>
+     <l1>An introduction to the various ways GymFash can help in body fixing.</l1>
+     <l1></l1>
+     <l1></l1>
+     <l1></l1>
+     <l1></l1>
+</ul>
 
 To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
