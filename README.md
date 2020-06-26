@@ -22,19 +22,11 @@ Pages: Home, About Us, Gallery, Contact Us.
 - Gallery - Displays photos of GymFash equipments and facility.
 - Contact Us - Provides a platform (contact form) for users to reach out to GymFash, including a Google Map.
 
+### Features left to implement
+- Feature- A page or part of the Home page to display the dates and times for specific training purposes.
 
 
-<h3>Existing Features</h3>
 
-<h4>Home Page -</h4>
-
-<ul>
-     <l1>An introduction to the various ways GymFash can help in body fixing.</l1>
-     <l1></l1>
-     <l1></l1>
-     <l1></l1>
-     <l1></l1>
-</ul>
 
 To run a backend Python file, type `python3 app.py`, if your Python file is named `app.py` of course.
 
