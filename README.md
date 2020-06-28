@@ -65,7 +65,15 @@ Pages: Home, About Us, Gallery, Contact Us.
 - All pages icons and links performed well on all mobile devices via safari and chrome.
   
 - **Contact form:** All the functionality of the form, such as "error message," "required field," "Invalid email," and "success message," performed nicely.
-    
+
+## Credits
+
+### Content
+Text: Original;
+HTML / CSS code: Bootstrap.
+
+### Media
+- Photos:<a href="https://www.gettyimages.co.uk/">**gettyimages**</a> 
 
 
 ## Acknowledgements
