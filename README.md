@@ -55,6 +55,26 @@ Pages: Home, About Us, Gallery, Contact Us.
     - The project uses **Photoshop** to edit images.
 
     
+## Testing
+
+- The project uses <a href="http://ami.responsivedesign.is/">**Am I responsive**</a> to test the responsiveness of the website on different Apple devices.
+  All pages and links functioned as expected on all devices.
+  
+
+
+
+
+1. Contact form:
+    1. Go to the "Contact Us" page
+    2. Try to submit the empty form and verify that an error message about the required fields appears
+    3. Try to submit the form with an invalid email address and verify that a relevant error message appears
+    4. Try to submit the form with all inputs valid and verify that a success message appears.
+
+In addition, you should mention in this section how your project looks and works on different browsers and screen sizes.
+
+You should also mention in this section any interesting bugs or problems you discovered during your testing, even if you haven't addressed them yet.
+
+If this section grows too long, you may want to split it off into a separate file and link to it from here.
 
 
 
