@@ -66,6 +66,21 @@ Pages: Home, About Us, Gallery, Contact Us.
   
 - **Contact form:** All the functionality of the form, such as "error message," "required field," "Invalid email," and "success message," performed nicely.
 
+
+## Deployment
+
+### GitHub Pages
+The project was deployed to GitHub Pages using the following steps...
+
+- Log in to GitHub and locate the <a href="https://github.com/">**GitHub Repository.**</a>
+- At the top of the Repository (not top of page), locate the "Settings" Button on the menu.
+- Scroll down the Settings page until you locate the "GitHub Pages" Section.
+- Under "Source", click the dropdown called "None" and select "Master Branch".
+- The page will automatically refresh.
+- All pages icons and links performed well on all mobile devices via safari and chrome.
+- Scroll back down through the page to locate the now published site <a href="https://denaman.github.io/GymFash/">**link**</a>  in the "GitHub Pages" section.
+
+
 ## Credits
 
 ### Content
@@ -78,7 +93,7 @@ HTML / CSS code: Bootstrap.
 
 ## Acknowledgements
 
-The Code Institue team, including members the Slack community.
+The Code Institue team, including members of the Slack community.
 
 My mentor, <a href="https://github.com/deye9">**Adegbenga Adeye,**</a> for guiding me through the project.
 
