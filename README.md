@@ -86,7 +86,7 @@ The project was deployed to GitHub Pages using the following steps...
 ### Content
 - Text: **Original**.
 <br>
-- HTML / CSS code: **Bootstrap**.
+- HTML /CSS code: **Bootstrap**.
 
 
 ### Media
