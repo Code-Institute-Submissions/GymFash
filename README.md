@@ -84,11 +84,13 @@ The project was deployed to GitHub Pages using the following steps...
 ## Credits
 
 ### Content
-Text: Original;
-HTML / CSS code: Bootstrap.
+- Text: **Original**.
+<br>
+- HTML / CSS code: **Bootstrap**.
+
 
 ### Media
-- Photos:<a href="https://www.gettyimages.co.uk/">**gettyimages**</a> 
+- Photos: <a href="https://www.gettyimages.co.uk/"> **gettyimages**</a> 
 
 
 ## Acknowledgements
