@@ -4,7 +4,7 @@
 <img src="assets/images/Capture.PNG" style="margin: 0;">
 
 
-This is my first milestone project as a "Full Stack" Software Development student of the <a href="https://codeinstitute.net/">Code Institute</a>. It is the launch of series of 
+<a href="https://denaman.github.io/GymFash/">GymFash</a> is my first milestone project as a "Full Stack" Software Development student of the <a href="https://codeinstitute.net/">Code Institute</a>. It is the launch of series of 
 projects that are intended to showcase my skills and credentials for potential employers or collaborators to access.
 
 <h2>UX</h2>
